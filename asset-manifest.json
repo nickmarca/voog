@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "voog/static/css/main.a666ea2f.css",
-    "main.js": "voog/static/js/main.dfa71f24.js",
-    "static/js/787.b04f9db6.chunk.js": "voog/static/js/787.b04f9db6.chunk.js",
-    "index.html": "voog/index.html",
-    "main.a666ea2f.css.map": "voog/static/css/main.a666ea2f.css.map",
-    "main.dfa71f24.js.map": "voog/static/js/main.dfa71f24.js.map",
-    "787.b04f9db6.chunk.js.map": "voog/static/js/787.b04f9db6.chunk.js.map"
+    "main.css": "/voog/static/css/main.a666ea2f.css",
+    "main.js": "/voog/static/js/main.41840221.js",
+    "static/js/787.b04f9db6.chunk.js": "/voog/static/js/787.b04f9db6.chunk.js",
+    "index.html": "/voog/index.html",
+    "main.a666ea2f.css.map": "/voog/static/css/main.a666ea2f.css.map",
+    "main.41840221.js.map": "/voog/static/js/main.41840221.js.map",
+    "787.b04f9db6.chunk.js.map": "/voog/static/js/787.b04f9db6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a666ea2f.css",
-    "static/js/main.dfa71f24.js"
+    "static/js/main.41840221.js"
   ]
 }
